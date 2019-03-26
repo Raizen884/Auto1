@@ -1,0 +1,16 @@
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/utils/CreateJsonTempFile.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/stepdefinition/BuyerOnboardingViewSD.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/views/BuyerNewAccountNameAndEmailView.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/views/BuyerNewAccountCPFAndCellphoneView.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/stepdefinition/BuyerHooks.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/utils/CPFGenerator.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/stepdefinition/BuyerNewAccountCPFAndCellphoneViewSD.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/stepdefinition/BuyerNewAccountNameAndEmailViewSD.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/views/BuyerOnboardingView.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/runner/ProjectTemplateRunnerTest.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/utils/NumberGenerator.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/utils/BaseMobilePageFactory.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/utils/Device.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/utils/DriverFactory.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/utils/AppDescription.java
+/Users/leonardoamaducci/eclipse-workspace/project-template/src/test/java/br/com/userede/utils/Util.java
